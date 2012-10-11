@@ -1,7 +1,7 @@
 SAS Code
 ========
 
-This is my personal repo for SAS macros and codes. I have written hundred thousands lines code in SAS over the last 12 years - some of them are completely useless due to changes in SAS version (new procs of functions added to make SAS programmers life easier), others are split on multiple versions with small changes (git was particularly popular a few years back). 
+This is my personal repo for SAS macros and codes. I have written hundred thousands lines code in SAS over the last 12 years - some of them are completely useless due to changes in SAS version (new procs of functions added to make SAS programmers life easier), others are split on multiple versions with small changes (git wasn't particularly popular a few years back). 
 
 Also I've gathered code from SUGI papers or on the internet that I have used extensively and will do my best to acknowledge the original author when possible.
 
